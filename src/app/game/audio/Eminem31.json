@@ -1,0 +1,1891 @@
+[
+  {
+    "id": "0",
+    "startTime": "00:00:00,000",
+    "startSeconds": 0,
+    "endTime": "00:00:00,000",
+    "endSeconds": 0,
+    "text": "by RentAnAdviser.com",
+    "words": [
+      "by",
+      "rentanadviser",
+      "com"
+    ],
+    "wordslength": 3
+  },
+  {
+    "id": "1",
+    "startTime": "00:00:00,900",
+    "startSeconds": 0.9,
+    "endTime": "00:00:05,100",
+    "endSeconds": 5.1,
+    "text": "Obie Trice! Real name, no gimmicks\n(*record scratch*)",
+    "words": [
+      "obie",
+      "trice",
+      "real",
+      "name",
+      "no",
+      "gimmicks"
+    ],
+    "wordslength": 9
+  },
+  {
+    "id": "2",
+    "startTime": "00:00:05,200",
+    "startSeconds": 5.2,
+    "endTime": "00:00:07,300",
+    "endSeconds": 7.3,
+    "text": "Two trailer park girls\ngo 'round the outside",
+    "words": [
+      "two",
+      "trailer",
+      "park",
+      "girls",
+      "go",
+      "the",
+      "outside"
+    ],
+    "wordslength": 16
+  },
+  {
+    "id": "3",
+    "startTime": "00:00:07,400",
+    "startSeconds": 7.4,
+    "endTime": "00:00:10,000",
+    "endSeconds": 10,
+    "text": "'Round the outside, 'round the outside",
+    "words": [
+      "the",
+      "outside",
+      "the",
+      "outside"
+    ],
+    "wordslength": 20
+  },
+  {
+    "id": "4",
+    "startTime": "00:00:13,800",
+    "startSeconds": 13.8,
+    "endTime": "00:00:15,700",
+    "endSeconds": 15.7,
+    "text": "Two trailer park girls\ngo 'round the outside",
+    "words": [
+      "two",
+      "trailer",
+      "park",
+      "girls",
+      "go",
+      "the",
+      "outside"
+    ],
+    "wordslength": 27
+  },
+  {
+    "id": "5",
+    "startTime": "00:00:15,800",
+    "startSeconds": 15.8,
+    "endTime": "00:00:18,500",
+    "endSeconds": 18.5,
+    "text": "'Round the outside, 'round the outside",
+    "words": [
+      "the",
+      "outside",
+      "the",
+      "outside"
+    ],
+    "wordslength": 31
+  },
+  {
+    "id": "6",
+    "startTime": "00:00:22,600",
+    "startSeconds": 22.6,
+    "endTime": "00:00:26,800",
+    "endSeconds": 26.8,
+    "text": "Guess who's back, back again",
+    "words": [
+      "guess",
+      "back",
+      "back",
+      "again"
+    ],
+    "wordslength": 35
+  },
+  {
+    "id": "7",
+    "startTime": "00:00:26,900",
+    "startSeconds": 26.9,
+    "endTime": "00:00:31,100",
+    "endSeconds": 31.1,
+    "text": "Shady's back, tell a friend",
+    "words": [
+      "back",
+      "tell",
+      "a",
+      "friend"
+    ],
+    "wordslength": 39
+  },
+  {
+    "id": "8",
+    "startTime": "00:00:31,200",
+    "startSeconds": 31.2,
+    "endTime": "00:00:33,300",
+    "endSeconds": 33.3,
+    "text": "Guess who's back, guess who's back",
+    "words": [
+      "guess",
+      "back",
+      "guess",
+      "back"
+    ],
+    "wordslength": 43
+  },
+  {
+    "id": "9",
+    "startTime": "00:00:33,400",
+    "startSeconds": 33.4,
+    "endTime": "00:00:35,400",
+    "endSeconds": 35.4,
+    "text": "Guess who's back, guess who's back",
+    "words": [
+      "guess",
+      "back",
+      "guess",
+      "back"
+    ],
+    "wordslength": 47
+  },
+  {
+    "id": "10",
+    "startTime": "00:00:35,500",
+    "startSeconds": 35.5,
+    "endTime": "00:00:37,600",
+    "endSeconds": 37.6,
+    "text": "Guess who's back, guess who's back",
+    "words": [
+      "guess",
+      "back",
+      "guess",
+      "back"
+    ],
+    "wordslength": 51
+  },
+  {
+    "id": "11",
+    "startTime": "00:00:37,700",
+    "startSeconds": 37.7,
+    "endTime": "00:00:39,100",
+    "endSeconds": 39.1,
+    "text": "Guess who's back",
+    "words": [
+      "guess",
+      "back"
+    ],
+    "wordslength": 53
+  },
+  {
+    "id": "12",
+    "startTime": "00:00:47,900",
+    "startSeconds": 47.9,
+    "endTime": "00:00:50,200",
+    "endSeconds": 50.2,
+    "text": "I've created a monster,\n'cause nobody wants to",
+    "words": [
+      "created",
+      "a",
+      "monster",
+      "nobody",
+      "wants",
+      "to"
+    ],
+    "wordslength": 59
+  },
+  {
+    "id": "13",
+    "startTime": "00:00:50,300",
+    "startSeconds": 50.3,
+    "endTime": "00:00:52,300",
+    "endSeconds": 52.3,
+    "text": "See Marshall no more, they want\nShady, I'm chopped liver",
+    "words": [
+      "see",
+      "marshall",
+      "no",
+      "more",
+      "they",
+      "want",
+      "shady",
+      "chopped",
+      "liver"
+    ],
+    "wordslength": 68
+  },
+  {
+    "id": "14",
+    "startTime": "00:00:52,400",
+    "startSeconds": 52.4,
+    "endTime": "00:00:54,600",
+    "endSeconds": 54.6,
+    "text": "Well, if you want Shady, this\nis what I'll give ya",
+    "words": [
+      "well",
+      "if",
+      "you",
+      "want",
+      "shady",
+      "this",
+      "is",
+      "what",
+      "give",
+      "ya"
+    ],
+    "wordslength": 78
+  },
+  {
+    "id": "15",
+    "startTime": "00:00:54,700",
+    "startSeconds": 54.7,
+    "endTime": "00:00:56,600",
+    "endSeconds": 56.6,
+    "text": "A little bit of weed mixed\nwith some hard liquor",
+    "words": [
+      "a",
+      "little",
+      "bit",
+      "of",
+      "weed",
+      "mixed",
+      "with",
+      "some",
+      "hard",
+      "liquor"
+    ],
+    "wordslength": 88
+  },
+  {
+    "id": "16",
+    "startTime": "00:00:56,700",
+    "startSeconds": 56.7,
+    "endTime": "00:00:58,700",
+    "endSeconds": 58.7,
+    "text": "Some vodka that'll jump\nstart my heart quicker",
+    "words": [
+      "some",
+      "vodka",
+      "jump",
+      "start",
+      "my",
+      "heart",
+      "quicker"
+    ],
+    "wordslength": 95
+  },
+  {
+    "id": "17",
+    "startTime": "00:00:58,800",
+    "startSeconds": 58.8,
+    "endTime": "00:01:00,700",
+    "endSeconds": 60.7,
+    "text": "Than a shock when I get shocked\nat the hospital",
+    "words": [
+      "than",
+      "a",
+      "shock",
+      "when",
+      "i",
+      "get",
+      "shocked",
+      "at",
+      "the",
+      "hospital"
+    ],
+    "wordslength": 105
+  },
+  {
+    "id": "18",
+    "startTime": "00:01:00,800",
+    "startSeconds": 60.8,
+    "endTime": "00:01:02,900",
+    "endSeconds": 62.9,
+    "text": "By the doctor when I'm\nnot co-operating",
+    "words": [
+      "by",
+      "the",
+      "doctor",
+      "when",
+      "not",
+      "co",
+      "operating"
+    ],
+    "wordslength": 112
+  },
+  {
+    "id": "19",
+    "startTime": "00:01:03,000",
+    "startSeconds": 63,
+    "endTime": "00:01:05,500",
+    "endSeconds": 65.5,
+    "text": "When I'm rocking the table while\nhe's operating (Hey!)",
+    "words": [
+      "when",
+      "rocking",
+      "the",
+      "table",
+      "while",
+      "operating",
+      "hey"
+    ],
+    "wordslength": 119
+  },
+  {
+    "id": "20",
+    "startTime": "00:01:05,600",
+    "startSeconds": 65.6,
+    "endTime": "00:01:07,100",
+    "endSeconds": 67.1,
+    "text": "You waited this long,\nnow stop debating",
+    "words": [
+      "you",
+      "waited",
+      "this",
+      "long",
+      "now",
+      "stop",
+      "debating"
+    ],
+    "wordslength": 126
+  },
+  {
+    "id": "21",
+    "startTime": "00:01:07,200",
+    "startSeconds": 67.2,
+    "endTime": "00:01:09,200",
+    "endSeconds": 69.2,
+    "text": "'Cause I'm back, I'm on\nthe rag and ovulating",
+    "words": [
+      "back",
+      "on",
+      "the",
+      "rag",
+      "and",
+      "ovulating"
+    ],
+    "wordslength": 132
+  },
+  {
+    "id": "22",
+    "startTime": "00:01:09,300",
+    "startSeconds": 69.3,
+    "endTime": "00:01:11,500",
+    "endSeconds": 71.5,
+    "text": "I know that you got a job, Ms. Cheney",
+    "words": [
+      "i",
+      "know",
+      "that",
+      "you",
+      "got",
+      "a",
+      "job",
+      "ms",
+      "cheney"
+    ],
+    "wordslength": 141
+  },
+  {
+    "id": "23",
+    "startTime": "00:01:11,600",
+    "startSeconds": 71.6,
+    "endTime": "00:01:13,700",
+    "endSeconds": 73.7,
+    "text": "But your husband's heart\nproblem's complicating",
+    "words": [
+      "but",
+      "your",
+      "heart",
+      "complicating"
+    ],
+    "wordslength": 145
+  },
+  {
+    "id": "24",
+    "startTime": "00:01:13,800",
+    "startSeconds": 73.8,
+    "endTime": "00:01:15,500",
+    "endSeconds": 75.5,
+    "text": "So the FCC won't let me be",
+    "words": [
+      "so",
+      "the",
+      "fcc",
+      "let",
+      "me",
+      "be"
+    ],
+    "wordslength": 151
+  },
+  {
+    "id": "25",
+    "startTime": "00:01:15,600",
+    "startSeconds": 75.6,
+    "endTime": "00:01:17,600",
+    "endSeconds": 77.6,
+    "text": "Or let me be me, so let me see",
+    "words": [
+      "or",
+      "let",
+      "me",
+      "be",
+      "me",
+      "so",
+      "let",
+      "me",
+      "see"
+    ],
+    "wordslength": 160
+  },
+  {
+    "id": "26",
+    "startTime": "00:01:17,700",
+    "startSeconds": 77.7,
+    "endTime": "00:01:19,800",
+    "endSeconds": 79.8,
+    "text": "They try to shut me down on MTV",
+    "words": [
+      "they",
+      "try",
+      "to",
+      "shut",
+      "me",
+      "down",
+      "on",
+      "mtv"
+    ],
+    "wordslength": 168
+  },
+  {
+    "id": "27",
+    "startTime": "00:01:19,900",
+    "startSeconds": 79.9,
+    "endTime": "00:01:22,000",
+    "endSeconds": 82,
+    "text": "But it feels so empty without me",
+    "words": [
+      "but",
+      "it",
+      "feels",
+      "so",
+      "empty",
+      "without",
+      "me"
+    ],
+    "wordslength": 175
+  },
+  {
+    "id": "28",
+    "startTime": "00:01:22,100",
+    "startSeconds": 82.1,
+    "endTime": "00:01:24,100",
+    "endSeconds": 84.1,
+    "text": "So, come on and dip, bum on your lips",
+    "words": [
+      "so",
+      "come",
+      "on",
+      "and",
+      "dip",
+      "bum",
+      "on",
+      "your",
+      "lips"
+    ],
+    "wordslength": 184
+  },
+  {
+    "id": "29",
+    "startTime": "00:01:24,200",
+    "startSeconds": 84.2,
+    "endTime": "00:01:26,200",
+    "endSeconds": 86.2,
+    "text": "Fuck that! Cum on your lips\nand some on your tits",
+    "words": [
+      "fuck",
+      "that",
+      "cum",
+      "on",
+      "your",
+      "lips",
+      "and",
+      "some",
+      "on",
+      "your",
+      "tits"
+    ],
+    "wordslength": 195
+  },
+  {
+    "id": "30",
+    "startTime": "00:01:26,300",
+    "startSeconds": 86.3,
+    "endTime": "00:01:28,400",
+    "endSeconds": 88.4,
+    "text": "And get ready, 'cause this\nshit's about to get heavy",
+    "words": [
+      "and",
+      "get",
+      "ready",
+      "this",
+      "about",
+      "to",
+      "get",
+      "heavy"
+    ],
+    "wordslength": 203
+  },
+  {
+    "id": "31",
+    "startTime": "00:01:28,500",
+    "startSeconds": 88.5,
+    "endTime": "00:01:30,700",
+    "endSeconds": 90.7,
+    "text": "I just settled all my lawsuits,\nfuck you, Debbie!",
+    "words": [
+      "i",
+      "just",
+      "settled",
+      "all",
+      "my",
+      "lawsuits",
+      "fuck",
+      "you",
+      "debbie"
+    ],
+    "wordslength": 212
+  },
+  {
+    "id": "32",
+    "startTime": "00:01:30,800",
+    "startSeconds": 90.8,
+    "endTime": "00:01:32,600",
+    "endSeconds": 92.6,
+    "text": "Now this looks like a job for me",
+    "words": [
+      "now",
+      "this",
+      "looks",
+      "like",
+      "a",
+      "job",
+      "for",
+      "me"
+    ],
+    "wordslength": 220
+  },
+  {
+    "id": "33",
+    "startTime": "00:01:32,700",
+    "startSeconds": 92.7,
+    "endTime": "00:01:34,700",
+    "endSeconds": 94.7,
+    "text": "So everybody, just follow me",
+    "words": [
+      "so",
+      "everybody",
+      "just",
+      "follow",
+      "me"
+    ],
+    "wordslength": 225
+  },
+  {
+    "id": "34",
+    "startTime": "00:01:34,800",
+    "startSeconds": 94.8,
+    "endTime": "00:01:36,800",
+    "endSeconds": 96.8,
+    "text": "'Cause we need a little controversy",
+    "words": [
+      "we",
+      "need",
+      "a",
+      "little",
+      "controversy"
+    ],
+    "wordslength": 230
+  },
+  {
+    "id": "35",
+    "startTime": "00:01:36,900",
+    "startSeconds": 96.9,
+    "endTime": "00:01:39,000",
+    "endSeconds": 99,
+    "text": "'Cause it feels so empty without me",
+    "words": [
+      "it",
+      "feels",
+      "so",
+      "empty",
+      "without",
+      "me"
+    ],
+    "wordslength": 236
+  },
+  {
+    "id": "36",
+    "startTime": "00:01:39,100",
+    "startSeconds": 99.1,
+    "endTime": "00:01:41,100",
+    "endSeconds": 101.1,
+    "text": "I said this looks like a job for me",
+    "words": [
+      "i",
+      "said",
+      "this",
+      "looks",
+      "like",
+      "a",
+      "job",
+      "for",
+      "me"
+    ],
+    "wordslength": 245
+  },
+  {
+    "id": "37",
+    "startTime": "00:01:41,200",
+    "startSeconds": 101.2,
+    "endTime": "00:01:43,300",
+    "endSeconds": 103.3,
+    "text": "So everybody, just follow me",
+    "words": [
+      "so",
+      "everybody",
+      "just",
+      "follow",
+      "me"
+    ],
+    "wordslength": 250
+  },
+  {
+    "id": "38",
+    "startTime": "00:01:43,400",
+    "startSeconds": 103.4,
+    "endTime": "00:01:45,400",
+    "endSeconds": 105.4,
+    "text": "'Cause we need a little controversy",
+    "words": [
+      "we",
+      "need",
+      "a",
+      "little",
+      "controversy"
+    ],
+    "wordslength": 255
+  },
+  {
+    "id": "39",
+    "startTime": "00:01:45,500",
+    "startSeconds": 105.5,
+    "endTime": "00:01:47,900",
+    "endSeconds": 107.9,
+    "text": "'Cause it feels so empty without me",
+    "words": [
+      "it",
+      "feels",
+      "so",
+      "empty",
+      "without",
+      "me"
+    ],
+    "wordslength": 261
+  },
+  {
+    "id": "40",
+    "startTime": "00:01:48,000",
+    "startSeconds": 108,
+    "endTime": "00:01:49,900",
+    "endSeconds": 109.9,
+    "text": "Little hellions, kids\nfeeling rebellious",
+    "words": [
+      "little",
+      "hellions",
+      "kids",
+      "feeling",
+      "rebellious"
+    ],
+    "wordslength": 266
+  },
+  {
+    "id": "41",
+    "startTime": "00:01:50,000",
+    "startSeconds": 110,
+    "endTime": "00:01:51,700",
+    "endSeconds": 111.7,
+    "text": "Embarrassed their parents\nstill listen to Elvis",
+    "words": [
+      "embarrassed",
+      "their",
+      "parents",
+      "still",
+      "listen",
+      "to",
+      "elvis"
+    ],
+    "wordslength": 273
+  },
+  {
+    "id": "42",
+    "startTime": "00:01:51,800",
+    "startSeconds": 111.8,
+    "endTime": "00:01:54,100",
+    "endSeconds": 114.1,
+    "text": "They start feeling like\nprisoners helpless",
+    "words": [
+      "they",
+      "start",
+      "feeling",
+      "like",
+      "prisoners",
+      "helpless"
+    ],
+    "wordslength": 279
+  },
+  {
+    "id": "43",
+    "startTime": "00:01:54,200",
+    "startSeconds": 114.2,
+    "endTime": "00:01:56,600",
+    "endSeconds": 116.6,
+    "text": "'Til someone comes along on a\nmission and yells, \"Bitch!\"",
+    "words": [
+      "someone",
+      "comes",
+      "along",
+      "on",
+      "a",
+      "mission",
+      "and",
+      "yells",
+      "bitch"
+    ],
+    "wordslength": 288
+  },
+  {
+    "id": "44",
+    "startTime": "00:01:56,700",
+    "startSeconds": 116.7,
+    "endTime": "00:01:58,500",
+    "endSeconds": 118.5,
+    "text": "A visionary, vision is scary",
+    "words": [
+      "a",
+      "visionary",
+      "vision",
+      "is",
+      "scary"
+    ],
+    "wordslength": 293
+  },
+  {
+    "id": "45",
+    "startTime": "00:01:58,600",
+    "startSeconds": 118.6,
+    "endTime": "00:02:00,600",
+    "endSeconds": 120.6,
+    "text": "Could start a revolution,\npolluting the airwaves",
+    "words": [
+      "could",
+      "start",
+      "a",
+      "revolution",
+      "polluting",
+      "the",
+      "airwaves"
+    ],
+    "wordslength": 300
+  },
+  {
+    "id": "46",
+    "startTime": "00:02:00,700",
+    "startSeconds": 120.7,
+    "endTime": "00:02:02,600",
+    "endSeconds": 122.6,
+    "text": "A rebel, so just let me revel and bask",
+    "words": [
+      "a",
+      "rebel",
+      "so",
+      "just",
+      "let",
+      "me",
+      "revel",
+      "and",
+      "bask"
+    ],
+    "wordslength": 309
+  },
+  {
+    "id": "47",
+    "startTime": "00:02:02,700",
+    "startSeconds": 122.7,
+    "endTime": "00:02:04,800",
+    "endSeconds": 124.8,
+    "text": "In the fact that I got everyone\nkissing my ass (*smack*)",
+    "words": [
+      "in",
+      "the",
+      "fact",
+      "that",
+      "i",
+      "got",
+      "everyone",
+      "kissing",
+      "my",
+      "ass"
+    ],
+    "wordslength": 319
+  },
+  {
+    "id": "48",
+    "startTime": "00:02:04,900",
+    "startSeconds": 124.9,
+    "endTime": "00:02:06,800",
+    "endSeconds": 126.8,
+    "text": "And it's a disaster,\nsuch a catastrophe",
+    "words": [
+      "and",
+      "a",
+      "disaster",
+      "such",
+      "a",
+      "catastrophe"
+    ],
+    "wordslength": 325
+  },
+  {
+    "id": "49",
+    "startTime": "00:02:06,900",
+    "startSeconds": 126.9,
+    "endTime": "00:02:09,400",
+    "endSeconds": 129.4,
+    "text": "For you to see so damn much of\nmy ass—you asked for me?",
+    "words": [
+      "for",
+      "you",
+      "to",
+      "see",
+      "so",
+      "damn",
+      "much",
+      "of",
+      "my",
+      "asked",
+      "for",
+      "me"
+    ],
+    "wordslength": 337
+  },
+  {
+    "id": "50",
+    "startTime": "00:02:09,500",
+    "startSeconds": 129.5,
+    "endTime": "00:02:11,600",
+    "endSeconds": 131.6,
+    "text": "Well, I'm back, na-na-na-\nna-na-na-na-na-na-na",
+    "words": [
+      "well",
+      "back",
+      "na",
+      "na",
+      "na",
+      "na",
+      "na",
+      "na",
+      "na",
+      "na",
+      "na",
+      "na"
+    ],
+    "wordslength": 349
+  },
+  {
+    "id": "51",
+    "startTime": "00:02:11,700",
+    "startSeconds": 131.7,
+    "endTime": "00:02:13,700",
+    "endSeconds": 133.7,
+    "text": "Fix your bent antenna, tune\nit in, and then I'm gonna",
+    "words": [
+      "fix",
+      "your",
+      "bent",
+      "antenna",
+      "tune",
+      "it",
+      "in",
+      "and",
+      "then",
+      "gonna"
+    ],
+    "wordslength": 359
+  },
+  {
+    "id": "52",
+    "startTime": "00:02:13,800",
+    "startSeconds": 133.8,
+    "endTime": "00:02:15,600",
+    "endSeconds": 135.6,
+    "text": "Enter in, and up under your\nskin like a splinter",
+    "words": [
+      "enter",
+      "in",
+      "and",
+      "up",
+      "under",
+      "your",
+      "skin",
+      "like",
+      "a",
+      "splinter"
+    ],
+    "wordslength": 369
+  },
+  {
+    "id": "53",
+    "startTime": "00:02:15,700",
+    "startSeconds": 135.7,
+    "endTime": "00:02:17,600",
+    "endSeconds": 137.6,
+    "text": "The center of attention,\nback for the winter",
+    "words": [
+      "the",
+      "center",
+      "of",
+      "attention",
+      "back",
+      "for",
+      "the",
+      "winter"
+    ],
+    "wordslength": 377
+  },
+  {
+    "id": "54",
+    "startTime": "00:02:17,700",
+    "startSeconds": 137.7,
+    "endTime": "00:02:19,900",
+    "endSeconds": 139.9,
+    "text": "I'm interesting, the best\nthing since wrestling",
+    "words": [
+      "interesting",
+      "the",
+      "best",
+      "thing",
+      "since",
+      "wrestling"
+    ],
+    "wordslength": 383
+  },
+  {
+    "id": "55",
+    "startTime": "00:02:20,000",
+    "startSeconds": 140,
+    "endTime": "00:02:22,100",
+    "endSeconds": 142.1,
+    "text": "Infesting in your kid's\nears and nesting",
+    "words": [
+      "infesting",
+      "in",
+      "your",
+      "ears",
+      "and",
+      "nesting"
+    ],
+    "wordslength": 389
+  },
+  {
+    "id": "56",
+    "startTime": "00:02:22,200",
+    "startSeconds": 142.2,
+    "endTime": "00:02:24,200",
+    "endSeconds": 144.2,
+    "text": "Testing, \"Attention please\"",
+    "words": [
+      "testing",
+      "attention",
+      "please"
+    ],
+    "wordslength": 392
+  },
+  {
+    "id": "57",
+    "startTime": "00:02:24,300",
+    "startSeconds": 144.3,
+    "endTime": "00:02:26,100",
+    "endSeconds": 146.1,
+    "text": "Feel the tension soon as\nsomeone mentions me",
+    "words": [
+      "feel",
+      "the",
+      "tension",
+      "soon",
+      "as",
+      "someone",
+      "mentions",
+      "me"
+    ],
+    "wordslength": 400
+  },
+  {
+    "id": "58",
+    "startTime": "00:02:26,200",
+    "startSeconds": 146.2,
+    "endTime": "00:02:28,200",
+    "endSeconds": 148.2,
+    "text": "Here's my ten cents, my\ntwo cents is free",
+    "words": [
+      "my",
+      "ten",
+      "cents",
+      "my",
+      "two",
+      "cents",
+      "is",
+      "free"
+    ],
+    "wordslength": 408
+  },
+  {
+    "id": "59",
+    "startTime": "00:02:28,300",
+    "startSeconds": 148.3,
+    "endTime": "00:02:30,500",
+    "endSeconds": 150.5,
+    "text": "A nuisance, who sent? You sent for me?",
+    "words": [
+      "a",
+      "nuisance",
+      "who",
+      "sent",
+      "you",
+      "sent",
+      "for",
+      "me"
+    ],
+    "wordslength": 416
+  },
+  {
+    "id": "60",
+    "startTime": "00:02:30,600",
+    "startSeconds": 150.6,
+    "endTime": "00:02:32,500",
+    "endSeconds": 152.5,
+    "text": "Now this looks like a job for me",
+    "words": [
+      "now",
+      "this",
+      "looks",
+      "like",
+      "a",
+      "job",
+      "for",
+      "me"
+    ],
+    "wordslength": 424
+  },
+  {
+    "id": "61",
+    "startTime": "00:02:32,600",
+    "startSeconds": 152.6,
+    "endTime": "00:02:34,600",
+    "endSeconds": 154.6,
+    "text": "So everybody, just follow me",
+    "words": [
+      "so",
+      "everybody",
+      "just",
+      "follow",
+      "me"
+    ],
+    "wordslength": 429
+  },
+  {
+    "id": "62",
+    "startTime": "00:02:34,700",
+    "startSeconds": 154.7,
+    "endTime": "00:02:36,700",
+    "endSeconds": 156.7,
+    "text": "'Cause we need a little controversy",
+    "words": [
+      "we",
+      "need",
+      "a",
+      "little",
+      "controversy"
+    ],
+    "wordslength": 434
+  },
+  {
+    "id": "63",
+    "startTime": "00:02:36,800",
+    "startSeconds": 156.8,
+    "endTime": "00:02:38,900",
+    "endSeconds": 158.9,
+    "text": "'Cause it feels so empty without me",
+    "words": [
+      "it",
+      "feels",
+      "so",
+      "empty",
+      "without",
+      "me"
+    ],
+    "wordslength": 440
+  },
+  {
+    "id": "64",
+    "startTime": "00:02:39,000",
+    "startSeconds": 159,
+    "endTime": "00:02:41,000",
+    "endSeconds": 161,
+    "text": "I said this looks like a job for me",
+    "words": [
+      "i",
+      "said",
+      "this",
+      "looks",
+      "like",
+      "a",
+      "job",
+      "for",
+      "me"
+    ],
+    "wordslength": 449
+  },
+  {
+    "id": "65",
+    "startTime": "00:02:41,100",
+    "startSeconds": 161.1,
+    "endTime": "00:02:43,200",
+    "endSeconds": 163.2,
+    "text": "So everybody, just follow me",
+    "words": [
+      "so",
+      "everybody",
+      "just",
+      "follow",
+      "me"
+    ],
+    "wordslength": 454
+  },
+  {
+    "id": "66",
+    "startTime": "00:02:43,300",
+    "startSeconds": 163.3,
+    "endTime": "00:02:45,200",
+    "endSeconds": 165.2,
+    "text": "'Cause we need a little controversy",
+    "words": [
+      "we",
+      "need",
+      "a",
+      "little",
+      "controversy"
+    ],
+    "wordslength": 459
+  },
+  {
+    "id": "67",
+    "startTime": "00:02:45,300",
+    "startSeconds": 165.3,
+    "endTime": "00:02:47,400",
+    "endSeconds": 167.4,
+    "text": "'Cause it feels so empty without me",
+    "words": [
+      "it",
+      "feels",
+      "so",
+      "empty",
+      "without",
+      "me"
+    ],
+    "wordslength": 465
+  },
+  {
+    "id": "68",
+    "startTime": "00:02:47,500",
+    "startSeconds": 167.5,
+    "endTime": "00:02:49,800",
+    "endSeconds": 169.8,
+    "text": "A tisk-it a task-it, I'll\ngo tit for tat with",
+    "words": [
+      "a",
+      "tisk",
+      "it",
+      "a",
+      "task",
+      "it",
+      "go",
+      "tit",
+      "for",
+      "tat",
+      "with"
+    ],
+    "wordslength": 476
+  },
+  {
+    "id": "69",
+    "startTime": "00:02:49,900",
+    "startSeconds": 169.9,
+    "endTime": "00:02:52,000",
+    "endSeconds": 172,
+    "text": "Anybody who's talking \"This\nshit, that shit\"",
+    "words": [
+      "anybody",
+      "talking",
+      "this",
+      "shit",
+      "that",
+      "shit"
+    ],
+    "wordslength": 482
+  },
+  {
+    "id": "70",
+    "startTime": "00:02:52,100",
+    "startSeconds": 172.1,
+    "endTime": "00:02:54,000",
+    "endSeconds": 174,
+    "text": "Chris Kirkpatrick, you can\nget your ass kicked",
+    "words": [
+      "chris",
+      "kirkpatrick",
+      "you",
+      "can",
+      "get",
+      "your",
+      "ass",
+      "kicked"
+    ],
+    "wordslength": 490
+  },
+  {
+    "id": "71",
+    "startTime": "00:02:54,100",
+    "startSeconds": 174.1,
+    "endTime": "00:02:56,200",
+    "endSeconds": 176.2,
+    "text": "Worse than them little\nLimp Bizkit bastards",
+    "words": [
+      "worse",
+      "than",
+      "them",
+      "little",
+      "limp",
+      "bizkit",
+      "bastards"
+    ],
+    "wordslength": 497
+  },
+  {
+    "id": "72",
+    "startTime": "00:02:56,300",
+    "startSeconds": 176.3,
+    "endTime": "00:02:58,300",
+    "endSeconds": 178.3,
+    "text": "And Moby? You can get stomped by Obie",
+    "words": [
+      "and",
+      "moby",
+      "you",
+      "can",
+      "get",
+      "stomped",
+      "by",
+      "obie"
+    ],
+    "wordslength": 505
+  },
+  {
+    "id": "73",
+    "startTime": "00:02:58,400",
+    "startSeconds": 178.4,
+    "endTime": "00:03:00,400",
+    "endSeconds": 180.4,
+    "text": "You thirty-six-year-old baldheaded\nfag, blow me",
+    "words": [
+      "you",
+      "thirty",
+      "six",
+      "year",
+      "old",
+      "baldheaded",
+      "fag",
+      "blow",
+      "me"
+    ],
+    "wordslength": 514
+  },
+  {
+    "id": "74",
+    "startTime": "00:03:00,500",
+    "startSeconds": 180.5,
+    "endTime": "00:03:02,700",
+    "endSeconds": 182.7,
+    "text": "You don't know me, you're\ntoo old, let go",
+    "words": [
+      "you",
+      "know",
+      "me",
+      "too",
+      "old",
+      "let",
+      "go"
+    ],
+    "wordslength": 521
+  },
+  {
+    "id": "75",
+    "startTime": "00:03:02,800",
+    "startSeconds": 182.8,
+    "endTime": "00:03:04,800",
+    "endSeconds": 184.8,
+    "text": "It's over, nobody listens to techno",
+    "words": [
+      "over",
+      "nobody",
+      "listens",
+      "to",
+      "techno"
+    ],
+    "wordslength": 526
+  },
+  {
+    "id": "76",
+    "startTime": "00:03:04,900",
+    "startSeconds": 184.9,
+    "endTime": "00:03:06,800",
+    "endSeconds": 186.8,
+    "text": "Now let's go, just give me the signal",
+    "words": [
+      "now",
+      "go",
+      "just",
+      "give",
+      "me",
+      "the",
+      "signal"
+    ],
+    "wordslength": 533
+  },
+  {
+    "id": "77",
+    "startTime": "00:03:06,900",
+    "startSeconds": 186.9,
+    "endTime": "00:03:09,000",
+    "endSeconds": 189,
+    "text": "I'll be there with a whole\nlist full of new insults",
+    "words": [
+      "be",
+      "there",
+      "with",
+      "a",
+      "whole",
+      "list",
+      "full",
+      "of",
+      "new",
+      "insults"
+    ],
+    "wordslength": 543
+  },
+  {
+    "id": "78",
+    "startTime": "00:03:09,100",
+    "startSeconds": 189.1,
+    "endTime": "00:03:11,200",
+    "endSeconds": 191.2,
+    "text": "I've been dope, suspenseful\nwith a pencil",
+    "words": [
+      "been",
+      "dope",
+      "suspenseful",
+      "with",
+      "a",
+      "pencil"
+    ],
+    "wordslength": 549
+  },
+  {
+    "id": "79",
+    "startTime": "00:03:11,300",
+    "startSeconds": 191.3,
+    "endTime": "00:03:13,300",
+    "endSeconds": 193.3,
+    "text": "Ever since Prince turned\nhimself into a symbol",
+    "words": [
+      "ever",
+      "since",
+      "prince",
+      "turned",
+      "himself",
+      "into",
+      "a",
+      "symbol"
+    ],
+    "wordslength": 557
+  },
+  {
+    "id": "80",
+    "startTime": "00:03:13,400",
+    "startSeconds": 193.4,
+    "endTime": "00:03:15,400",
+    "endSeconds": 195.4,
+    "text": "But sometimes the shit just seems",
+    "words": [
+      "but",
+      "sometimes",
+      "the",
+      "shit",
+      "just",
+      "seems"
+    ],
+    "wordslength": 563
+  },
+  {
+    "id": "81",
+    "startTime": "00:03:15,500",
+    "startSeconds": 195.5,
+    "endTime": "00:03:17,300",
+    "endSeconds": 197.3,
+    "text": "Everybody only wants to discuss me",
+    "words": [
+      "everybody",
+      "only",
+      "wants",
+      "to",
+      "discuss",
+      "me"
+    ],
+    "wordslength": 569
+  },
+  {
+    "id": "82",
+    "startTime": "00:03:17,400",
+    "startSeconds": 197.4,
+    "endTime": "00:03:19,500",
+    "endSeconds": 199.5,
+    "text": "So this must mean I'm disgusting",
+    "words": [
+      "so",
+      "this",
+      "must",
+      "mean",
+      "disgusting"
+    ],
+    "wordslength": 574
+  },
+  {
+    "id": "83",
+    "startTime": "00:03:19,600",
+    "startSeconds": 199.6,
+    "endTime": "00:03:21,700",
+    "endSeconds": 201.7,
+    "text": "But it's just me, I'm just obscene",
+    "words": [
+      "but",
+      "just",
+      "me",
+      "just",
+      "obscene"
+    ],
+    "wordslength": 579
+  },
+  {
+    "id": "84",
+    "startTime": "00:03:21,800",
+    "startSeconds": 201.8,
+    "endTime": "00:03:23,900",
+    "endSeconds": 203.9,
+    "text": "Though I'm not the first\nking of controversy",
+    "words": [
+      "though",
+      "not",
+      "the",
+      "first",
+      "king",
+      "of",
+      "controversy"
+    ],
+    "wordslength": 586
+  },
+  {
+    "id": "85",
+    "startTime": "00:03:24,000",
+    "startSeconds": 204,
+    "endTime": "00:03:26,000",
+    "endSeconds": 206,
+    "text": "I am the worst thing\nsince Elvis Presley",
+    "words": [
+      "i",
+      "am",
+      "the",
+      "worst",
+      "thing",
+      "since",
+      "elvis",
+      "presley"
+    ],
+    "wordslength": 594
+  },
+  {
+    "id": "86",
+    "startTime": "00:03:26,100",
+    "startSeconds": 206.1,
+    "endTime": "00:03:28,200",
+    "endSeconds": 208.2,
+    "text": "To do black music so selfishly",
+    "words": [
+      "to",
+      "do",
+      "black",
+      "music",
+      "so",
+      "selfishly"
+    ],
+    "wordslength": 600
+  },
+  {
+    "id": "87",
+    "startTime": "00:03:28,300",
+    "startSeconds": 208.3,
+    "endTime": "00:03:31,100",
+    "endSeconds": 211.1,
+    "text": "And use it to get myself\nwealthy (Hey!)",
+    "words": [
+      "and",
+      "use",
+      "it",
+      "to",
+      "get",
+      "myself",
+      "wealthy",
+      "hey"
+    ],
+    "wordslength": 608
+  },
+  {
+    "id": "88",
+    "startTime": "00:03:31,200",
+    "startSeconds": 211.2,
+    "endTime": "00:03:32,400",
+    "endSeconds": 212.4,
+    "text": "There's a concept that works",
+    "words": [
+      "a",
+      "concept",
+      "that",
+      "works"
+    ],
+    "wordslength": 612
+  },
+  {
+    "id": "89",
+    "startTime": "00:03:32,500",
+    "startSeconds": 212.5,
+    "endTime": "00:03:34,500",
+    "endSeconds": 214.5,
+    "text": "Twenty million other white\nrappers emerge",
+    "words": [
+      "twenty",
+      "million",
+      "other",
+      "white",
+      "rappers",
+      "emerge"
+    ],
+    "wordslength": 618
+  },
+  {
+    "id": "90",
+    "startTime": "00:03:34,600",
+    "startSeconds": 214.6,
+    "endTime": "00:03:36,600",
+    "endSeconds": 216.6,
+    "text": "But no matter how many fish in the sea",
+    "words": [
+      "but",
+      "no",
+      "matter",
+      "how",
+      "many",
+      "fish",
+      "in",
+      "the",
+      "sea"
+    ],
+    "wordslength": 627
+  },
+  {
+    "id": "91",
+    "startTime": "00:03:36,700",
+    "startSeconds": 216.7,
+    "endTime": "00:03:38,900",
+    "endSeconds": 218.9,
+    "text": "It'd be so empty without me",
+    "words": [
+      "be",
+      "so",
+      "empty",
+      "without",
+      "me"
+    ],
+    "wordslength": 632
+  },
+  {
+    "id": "92",
+    "startTime": "00:03:39,000",
+    "startSeconds": 219,
+    "endTime": "00:03:40,900",
+    "endSeconds": 220.9,
+    "text": "Now this looks like a job for me",
+    "words": [
+      "now",
+      "this",
+      "looks",
+      "like",
+      "a",
+      "job",
+      "for",
+      "me"
+    ],
+    "wordslength": 640
+  },
+  {
+    "id": "93",
+    "startTime": "00:03:41,000",
+    "startSeconds": 221,
+    "endTime": "00:03:43,000",
+    "endSeconds": 223,
+    "text": "So everybody, just follow me",
+    "words": [
+      "so",
+      "everybody",
+      "just",
+      "follow",
+      "me"
+    ],
+    "wordslength": 645
+  },
+  {
+    "id": "94",
+    "startTime": "00:03:43,100",
+    "startSeconds": 223.1,
+    "endTime": "00:03:45,100",
+    "endSeconds": 225.1,
+    "text": "'Cause we need a little controversy",
+    "words": [
+      "we",
+      "need",
+      "a",
+      "little",
+      "controversy"
+    ],
+    "wordslength": 650
+  },
+  {
+    "id": "95",
+    "startTime": "00:03:45,200",
+    "startSeconds": 225.2,
+    "endTime": "00:03:47,200",
+    "endSeconds": 227.2,
+    "text": "'Cause it feels so empty without me",
+    "words": [
+      "it",
+      "feels",
+      "so",
+      "empty",
+      "without",
+      "me"
+    ],
+    "wordslength": 656
+  },
+  {
+    "id": "96",
+    "startTime": "00:03:47,300",
+    "startSeconds": 227.3,
+    "endTime": "00:03:49,400",
+    "endSeconds": 229.4,
+    "text": "I said this looks like a job for me",
+    "words": [
+      "i",
+      "said",
+      "this",
+      "looks",
+      "like",
+      "a",
+      "job",
+      "for",
+      "me"
+    ],
+    "wordslength": 665
+  },
+  {
+    "id": "97",
+    "startTime": "00:03:49,500",
+    "startSeconds": 229.5,
+    "endTime": "00:03:51,500",
+    "endSeconds": 231.5,
+    "text": "So everybody, just follow me",
+    "words": [
+      "so",
+      "everybody",
+      "just",
+      "follow",
+      "me"
+    ],
+    "wordslength": 670
+  },
+  {
+    "id": "98",
+    "startTime": "00:03:51,600",
+    "startSeconds": 231.6,
+    "endTime": "00:03:53,700",
+    "endSeconds": 233.7,
+    "text": "'Cause we need a little controversy",
+    "words": [
+      "we",
+      "need",
+      "a",
+      "little",
+      "controversy"
+    ],
+    "wordslength": 675
+  },
+  {
+    "id": "99",
+    "startTime": "00:03:53,800",
+    "startSeconds": 233.8,
+    "endTime": "00:03:55,700",
+    "endSeconds": 235.7,
+    "text": "'Cause it feels so empty without me",
+    "words": [
+      "it",
+      "feels",
+      "so",
+      "empty",
+      "without",
+      "me"
+    ],
+    "wordslength": 681
+  },
+  {
+    "id": "100",
+    "startTime": "00:03:55,800",
+    "startSeconds": 235.8,
+    "endTime": "00:03:59,500",
+    "endSeconds": 239.5,
+    "text": "Hum dei dei la la, la la la la la",
+    "words": [
+      "hum",
+      "dei",
+      "dei",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "wordslength": 691
+  },
+  {
+    "id": "101",
+    "startTime": "00:03:59,600",
+    "startSeconds": 239.6,
+    "endTime": "00:04:03,800",
+    "endSeconds": 243.8,
+    "text": "La la la la la, la la la la",
+    "words": [
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "wordslength": 700
+  },
+  {
+    "id": "102",
+    "startTime": "00:04:03,900",
+    "startSeconds": 243.9,
+    "endTime": "00:04:08,100",
+    "endSeconds": 248.1,
+    "text": "Hum dei dei la la, la la la la la",
+    "words": [
+      "hum",
+      "dei",
+      "dei",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "wordslength": 710
+  },
+  {
+    "id": "103",
+    "startTime": "00:04:08,200",
+    "startSeconds": 248.2,
+    "endTime": "00:04:12,600",
+    "endSeconds": 252.6,
+    "text": "La la la la la, la la la la",
+    "words": [
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "wordslength": 719
+  },
+  {
+    "id": "104",
+    "startTime": "00:04:12,600",
+    "startSeconds": 252.6,
+    "endTime": "00:04:14,300",
+    "endSeconds": 254.3,
+    "text": "Kids!",
+    "words": [
+      "kids"
+    ],
+    "wordslength": 720
+  },
+  {
+    "id": "105",
+    "startTime": "00:04:15,300",
+    "startSeconds": 255.3,
+    "endTime": "00:04:24,300",
+    "endSeconds": 264.3,
+    "text": "by RentAnAdviser.com",
+    "words": [
+      "by",
+      "rentanadviser",
+      "com"
+    ],
+    "wordslength": 723
+  }
+]

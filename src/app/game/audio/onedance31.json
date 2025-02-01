@@ -1,0 +1,549 @@
+[
+  {
+    "id": "0",
+    "startTime": "00:00:14,300",
+    "startSeconds": 14.3,
+    "endTime": "00:00:15,580",
+    "endSeconds": 15.58,
+    "text": "Grips on your waist",
+    "words": [
+      "grips",
+      "on",
+      "your",
+      "waist"
+    ],
+    "wordslength": 4
+  },
+  {
+    "id": "1",
+    "startTime": "00:00:15,580",
+    "startSeconds": 15.58,
+    "endTime": "00:00:16,760",
+    "endSeconds": 16.76,
+    "text": "Front way, back way",
+    "words": [
+      "front",
+      "way",
+      "back",
+      "way"
+    ],
+    "wordslength": 8
+  },
+  {
+    "id": "2",
+    "startTime": "00:00:16,760",
+    "startSeconds": 16.76,
+    "endTime": "00:00:18,600",
+    "endSeconds": 18.6,
+    "text": "You know that I don't play",
+    "words": [
+      "you",
+      "know",
+      "that",
+      "i",
+      "play"
+    ],
+    "wordslength": 13
+  },
+  {
+    "id": "3",
+    "startTime": "00:00:18,600",
+    "startSeconds": 18.6,
+    "endTime": "00:00:19,960",
+    "endSeconds": 19.96,
+    "text": "Streets not safe",
+    "words": [
+      "streets",
+      "not",
+      "safe"
+    ],
+    "wordslength": 16
+  },
+  {
+    "id": "4",
+    "startTime": "00:00:19,960",
+    "startSeconds": 19.96,
+    "endTime": "00:00:21,420",
+    "endSeconds": 21.42,
+    "text": "But I never run away",
+    "words": [
+      "but",
+      "i",
+      "never",
+      "run",
+      "away"
+    ],
+    "wordslength": 21
+  },
+  {
+    "id": "5",
+    "startTime": "00:00:21,420",
+    "startSeconds": 21.42,
+    "endTime": "00:00:23,280",
+    "endSeconds": 23.28,
+    "text": "Even when I'm away",
+    "words": [
+      "even",
+      "when",
+      "away"
+    ],
+    "wordslength": 24
+  },
+  {
+    "id": "6",
+    "startTime": "00:00:23,280",
+    "startSeconds": 23.28,
+    "endTime": "00:00:27,660",
+    "endSeconds": 27.66,
+    "text": "Oti, Oti, there's never much love when we go, oti",
+    "words": [
+      "oti",
+      "oti",
+      "never",
+      "much",
+      "love",
+      "when",
+      "we",
+      "go",
+      "oti"
+    ],
+    "wordslength": 33
+  },
+  {
+    "id": "7",
+    "startTime": "00:00:27,680",
+    "startSeconds": 27.68,
+    "endTime": "00:00:30,000",
+    "endSeconds": 30,
+    "text": "I pray to make it back in one piece",
+    "words": [
+      "i",
+      "pray",
+      "to",
+      "make",
+      "it",
+      "back",
+      "in",
+      "one",
+      "piece"
+    ],
+    "wordslength": 42
+  },
+  {
+    "id": "8",
+    "startTime": "00:00:30,000",
+    "startSeconds": 30,
+    "endTime": "00:00:32,000",
+    "endSeconds": 32,
+    "text": "I pray, I pray",
+    "words": [
+      "i",
+      "pray",
+      "i",
+      "pray"
+    ],
+    "wordslength": 46
+  },
+  {
+    "id": "9",
+    "startTime": "00:00:32,000",
+    "startSeconds": 32,
+    "endTime": "00:00:34,500",
+    "endSeconds": 34.5,
+    "text": "That's why I need a one dance",
+    "words": [
+      "why",
+      "i",
+      "need",
+      "a",
+      "one",
+      "dance"
+    ],
+    "wordslength": 52
+  },
+  {
+    "id": "10",
+    "startTime": "00:00:34,500",
+    "startSeconds": 34.5,
+    "endTime": "00:00:36,880",
+    "endSeconds": 36.88,
+    "text": "Got a Hennessy in my hand",
+    "words": [
+      "got",
+      "a",
+      "hennessy",
+      "in",
+      "my",
+      "hand"
+    ],
+    "wordslength": 58
+  },
+  {
+    "id": "11",
+    "startTime": "00:00:36,880",
+    "startSeconds": 36.88,
+    "endTime": "00:00:38,680",
+    "endSeconds": 38.68,
+    "text": "One more time 'fore I go",
+    "words": [
+      "one",
+      "more",
+      "time",
+      "i",
+      "go"
+    ],
+    "wordslength": 63
+  },
+  {
+    "id": "12",
+    "startTime": "00:00:38,680",
+    "startSeconds": 38.68,
+    "endTime": "00:00:42,000",
+    "endSeconds": 42,
+    "text": "Higher powers taking a hold on me",
+    "words": [
+      "higher",
+      "powers",
+      "taking",
+      "a",
+      "hold",
+      "on",
+      "me"
+    ],
+    "wordslength": 70
+  },
+  {
+    "id": "13",
+    "startTime": "00:00:42,000",
+    "startSeconds": 42,
+    "endTime": "00:00:43,960",
+    "endSeconds": 43.96,
+    "text": "I need a one dance",
+    "words": [
+      "i",
+      "need",
+      "a",
+      "one",
+      "dance"
+    ],
+    "wordslength": 75
+  },
+  {
+    "id": "14",
+    "startTime": "00:00:43,960",
+    "startSeconds": 43.96,
+    "endTime": "00:00:46,600",
+    "endSeconds": 46.6,
+    "text": "Got a Hennessy in my hand",
+    "words": [
+      "got",
+      "a",
+      "hennessy",
+      "in",
+      "my",
+      "hand"
+    ],
+    "wordslength": 81
+  },
+  {
+    "id": "15",
+    "startTime": "00:00:46,600",
+    "startSeconds": 46.6,
+    "endTime": "00:00:48,540",
+    "endSeconds": 48.54,
+    "text": "One more time 'fore I go",
+    "words": [
+      "one",
+      "more",
+      "time",
+      "i",
+      "go"
+    ],
+    "wordslength": 86
+  },
+  {
+    "id": "16",
+    "startTime": "00:00:48,540",
+    "startSeconds": 48.54,
+    "endTime": "00:00:51,060",
+    "endSeconds": 51.06,
+    "text": "Its taking a hold on me",
+    "words": [
+      "its",
+      "taking",
+      "a",
+      "hold",
+      "on",
+      "me"
+    ],
+    "wordslength": 92
+  },
+  {
+    "id": "17",
+    "startTime": "00:01:14,360",
+    "startSeconds": 74.36,
+    "endTime": "00:01:15,680",
+    "endSeconds": 75.68,
+    "text": "Strength and guidance",
+    "words": [
+      "strength",
+      "and",
+      "guidance"
+    ],
+    "wordslength": 95
+  },
+  {
+    "id": "18",
+    "startTime": "00:01:15,680",
+    "startSeconds": 75.68,
+    "endTime": "00:01:18,060",
+    "endSeconds": 78.06,
+    "text": "All that I'm wishing for my friends",
+    "words": [
+      "all",
+      "that",
+      "wishing",
+      "for",
+      "my",
+      "friends"
+    ],
+    "wordslength": 101
+  },
+  {
+    "id": "19",
+    "startTime": "00:01:18,060",
+    "startSeconds": 78.06,
+    "endTime": "00:01:20,660",
+    "endSeconds": 80.66,
+    "text": "Nobody makes it from my ends",
+    "words": [
+      "nobody",
+      "makes",
+      "it",
+      "from",
+      "my",
+      "ends"
+    ],
+    "wordslength": 107
+  },
+  {
+    "id": "20",
+    "startTime": "00:01:20,660",
+    "startSeconds": 80.66,
+    "endTime": "00:01:23,000",
+    "endSeconds": 83,
+    "text": "I had to bust up the silence",
+    "words": [
+      "i",
+      "had",
+      "to",
+      "bust",
+      "up",
+      "the",
+      "silence"
+    ],
+    "wordslength": 114
+  },
+  {
+    "id": "21",
+    "startTime": "00:01:23,000",
+    "startSeconds": 83,
+    "endTime": "00:01:25,820",
+    "endSeconds": 85.82,
+    "text": "You know you gotta stick by me",
+    "words": [
+      "you",
+      "know",
+      "you",
+      "gotta",
+      "stick",
+      "by",
+      "me"
+    ],
+    "wordslength": 121
+  },
+  {
+    "id": "22",
+    "startTime": "00:01:25,820",
+    "startSeconds": 85.82,
+    "endTime": "00:01:27,820",
+    "endSeconds": 87.82,
+    "text": "Soon as you get a text, reply me",
+    "words": [
+      "soon",
+      "as",
+      "you",
+      "get",
+      "a",
+      "text",
+      "reply",
+      "me"
+    ],
+    "wordslength": 129
+  },
+  {
+    "id": "23",
+    "startTime": "00:01:27,820",
+    "startSeconds": 87.82,
+    "endTime": "00:01:30,380",
+    "endSeconds": 90.38,
+    "text": "I don't wanna spend time fighting",
+    "words": [
+      "i",
+      "wanna",
+      "spend",
+      "time",
+      "fighting"
+    ],
+    "wordslength": 134
+  },
+  {
+    "id": "24",
+    "startTime": "00:01:30,380",
+    "startSeconds": 90.38,
+    "endTime": "00:01:32,240",
+    "endSeconds": 92.24,
+    "text": "We've got no time",
+    "words": [
+      "got",
+      "no",
+      "time"
+    ],
+    "wordslength": 137
+  },
+  {
+    "id": "25",
+    "startTime": "00:01:32,240",
+    "startSeconds": 92.24,
+    "endTime": "00:01:34,340",
+    "endSeconds": 94.34,
+    "text": "That's why I need a one dance",
+    "words": [
+      "why",
+      "i",
+      "need",
+      "a",
+      "one",
+      "dance"
+    ],
+    "wordslength": 143
+  },
+  {
+    "id": "26",
+    "startTime": "00:01:34,340",
+    "startSeconds": 94.34,
+    "endTime": "00:01:36,240",
+    "endSeconds": 96.24,
+    "text": "Got a Hennessy in my hand",
+    "words": [
+      "got",
+      "a",
+      "hennessy",
+      "in",
+      "my",
+      "hand"
+    ],
+    "wordslength": 149
+  },
+  {
+    "id": "27",
+    "startTime": "00:01:36,240",
+    "startSeconds": 96.24,
+    "endTime": "00:01:38,880",
+    "endSeconds": 98.88,
+    "text": "One more time 'fore I go",
+    "words": [
+      "one",
+      "more",
+      "time",
+      "i",
+      "go"
+    ],
+    "wordslength": 154
+  },
+  {
+    "id": "28",
+    "startTime": "00:01:38,880",
+    "startSeconds": 98.88,
+    "endTime": "00:01:42,020",
+    "endSeconds": 102.02,
+    "text": "Higher powers taking a hold on me",
+    "words": [
+      "higher",
+      "powers",
+      "taking",
+      "a",
+      "hold",
+      "on",
+      "me"
+    ],
+    "wordslength": 161
+  },
+  {
+    "id": "29",
+    "startTime": "00:01:42,020",
+    "startSeconds": 102.02,
+    "endTime": "00:01:43,760",
+    "endSeconds": 103.76,
+    "text": "I need a one dance",
+    "words": [
+      "i",
+      "need",
+      "a",
+      "one",
+      "dance"
+    ],
+    "wordslength": 166
+  },
+  {
+    "id": "30",
+    "startTime": "00:01:43,760",
+    "startSeconds": 103.76,
+    "endTime": "00:01:46,020",
+    "endSeconds": 106.02,
+    "text": "Got a Hennessy in my hand",
+    "words": [
+      "got",
+      "a",
+      "hennessy",
+      "in",
+      "my",
+      "hand"
+    ],
+    "wordslength": 172
+  },
+  {
+    "id": "31",
+    "startTime": "00:01:46,020",
+    "startSeconds": 106.02,
+    "endTime": "00:01:48,140",
+    "endSeconds": 108.14,
+    "text": "One more time 'fore I go",
+    "words": [
+      "one",
+      "more",
+      "time",
+      "i",
+      "go"
+    ],
+    "wordslength": 177
+  },
+  {
+    "id": "32",
+    "startTime": "00:01:48,140",
+    "startSeconds": 108.14,
+    "endTime": "00:01:51,120",
+    "endSeconds": 111.12,
+    "text": "Higher powers taking a hold on me",
+    "words": [
+      "higher",
+      "powers",
+      "taking",
+      "a",
+      "hold",
+      "on",
+      "me"
+    ],
+    "wordslength": 184
+  }
+]
